@@ -1,0 +1,224 @@
+[
+    {
+        "id" : 1,
+        "title": "SET QUÀ TẾT AN KHANG III – HỘP QUÀ TẾT SANG TRỌNG Ý NGHĨA TẾT 2024",
+        "image": "./images/750.jpg",
+        "newprice" : 759000,
+        "oldprice": 900000,
+        "type" : "set quà"
+    },
+    {
+        "id" : 2,
+        "title": "Set An nhiên        ",
+        "image":"./images/annhien.webp",
+        "newprice" : 1239000,
+        "oldprice": 1500000,
+        "type" : "set quà"
+    },
+    {
+        "id" : 3,
+        "title": "BÁNH QUY BƠ PHÁP LU 180G TẾT 2024 – HỘP BÁNH TẾT KINH ĐÔ 2024        ",
+        "image":"./images/banhlu.png",
+        "newprice" : 63000,
+        "oldprice": 80000,
+        "type" : "bánh"
+    },
+    {
+        "id" : 4,
+        "title": "COSY BÁNH QUY BƠ THẬP CẨM SOCOLA (HỘP THIẾC) 546G TẾT 2024  ",
+        "image":"./images/cosy.jpg",
+        "newprice" : 155000,
+        "oldprice" : 180000,
+        "type" : "bánh"
+    },
+    {
+        "id" : 5,
+        "title": "Bộ 2 Lon Sữa Ensure 850G và 2 Chai Sữa nước Ensure Vigor Gold 237m  ",
+        "image":"./images/ensure.webp",
+        "newprice" : 1558000,
+        "oldprice": 1600000,
+        "type" : "sữa"
+    },
+    {
+        "id" : 6,
+        "title": "Hộp Quà Tết Luckiness 01        ",
+        "image":"./images/lucky.jpg",
+        "newprice" : 1558000,
+        "oldprice": 1600000,
+        "type" : "sữa"
+    },
+    {
+        "id" : 7,
+        "title": "Set Thọ Khang        ",
+        "image":"./images/thokhang.webp",
+        "newprice" : 886000,
+        "oldprice": 100000,
+        "type" : "set quà"
+      
+    },
+    {
+        "id" : 8,
+        "title": "HỘP QUÀ TẾT BÁNH QUY OREO KINH ĐÔ 331.2G ( HỘP THIẾC)       ",
+        "image":"./images/oreo.png",
+        "newprice" : 148000,
+        "oldprice": 160000,
+        "type" : "bánh"
+      
+    },
+    {
+        "id" : 9,
+        "title": "Quà tết Langfarm Etsy 24      ",
+        "image":"./images/ETSY 24.jpg",
+        "newprice" : 669000,
+        "oldprice": 800000,
+        "type" : "set quà"
+      
+    },
+    {
+        "id" : 9,
+        "title": "Bánh hỗn hợp hộp thiếc Warmly HT Nơ Vàng 450 gam      ",
+        "image":"./images/warmly copy.png",
+        "newprice" : 131000,
+        "oldprice": 150000,
+        "type" : "bánh"
+      
+    },
+    {
+        "id" : 10,
+        "title": "Giỏ Quà Tết Cao Cấp Sức Khoẻ (Sâm Hàn Quốc)     ",
+        "image":"./images/sam.jpg",
+        "newprice" : 1250000,
+        "oldprice": 1400000,
+        "type" : "set quà"
+      
+    },
+    {
+        "id" : 11,
+        "title": "Set Quà Tết 2024 - Long Phụng Bội Kim        ",
+        "image":"./images/longphung.jpg",
+        "newprice" : 1750000,
+        "oldprice": 2000000,
+        "type" : "set quà"
+      
+    },
+    {
+        "id" : 12,
+        "title": "Một thùng sữa milo 180ml        ",
+        "image":"./images/thung-milo-180.jpg",
+        "newprice" : 340000,
+        "oldprice": 500000,
+        "type" : "sữa"
+      
+    },
+    {
+        "id" : 13,
+        "title": "NESCAFÉ 3in1 Cà phê rang xay hòa tan Đậm vị cà phê - Hộp 20 gói x 17G        ",
+        "image":"./images/cafe.webp",
+        "newprice" : 64000,
+        "oldprice": 80000,
+        "type" : "bột pha nước"
+      
+    },
+    {
+        "id" : 14,
+        "title": "Trà vị chanh NESTEA 252g        ",
+        "image":"./images/trachanh.jpg",
+        "newprice" : 36000,
+        "oldprice": 50000,
+        "type" : "bột pha nước"
+      
+    },
+    {
+        "id" : 15,
+        "title": "Thùng sữa Ovaltine vị cacao lúa mạch 180ml      ",
+        "image":"./images/ovan.png",
+        "newprice" : 350000,
+        "oldprice": 400000,
+        "type" : "sữa"
+      
+    },
+    {
+        "id" : 16,
+        "title": "Bánh Quy Orion Goute Hộp Thiếc Mix 2 Vị phiên bản mùa Tết 475.2g     ",
+        "image":"./images/goute.webp",
+        "newprice" : 147000,
+        "oldprice": 160000,
+        "type" : "bánh"
+      
+    },
+    {
+        "id" : 16,
+        "title": " Hộp Kẹo Alpenliebe và Mentos    ",
+        "image":"./images/anbelibe.jpg",
+        "newprice" : 132000,
+        "oldprice": 150000,
+        "type" : "bánh"
+      
+    },
+    {
+        "id" : 17,
+        "title": "01 Cặp Bánh Chưng Hương Vị Đặc Biệt Từ Hải Dương    ",
+        "image":"./images/banhchung.jpg",
+        "newprice" : 125000,
+        "oldprice": 150000,
+        "type" : "món truyền thống ngày tết"
+      
+    },
+    {
+        "id" : 18,
+        "title": "Bánh Tét Trà Cuốn Xanh Lá Ngót   ",
+        "image":"./images/banh tet.jpg",
+        "newprice" : 65000,
+        "oldprice": 80000,
+        "type" : "món truyền thống ngày tết"
+      
+    },
+    {
+        "id" : 19,
+        "title": "Bánh Đậu Xanh A27 (Cacao)   ",
+        "image":"./images/banhdauxanh.jpg",
+        "newprice" : 45000,
+        "oldprice": 60000,
+        "type" : "món truyền thống ngày tết"
+      
+    },
+    {
+        "id" : 20,
+        "title": " Bánh dầy ngọt        ",
+        "image":"./images/banhdauxanh.jpg",
+        "newprice" : 39000,
+        "oldprice": 50000,
+        "type" : "món truyền thống ngày tết"
+      
+    },
+    {
+        "id" : 21,
+        "title": "Bánh cốm   ",
+        "image":"./images/banhcom.jpg",
+        "newprice" : 45000,
+        "oldprice": 80000,
+        "type" : "món truyền thống ngày tết"
+      
+    },
+    {
+        "id" : 22,
+        "title": "Bánh in   ",
+        "image":"./images/banhin.jpg",
+        "newprice" : 50000,
+        "oldprice": 80000,
+        "type" : "món truyền thống ngày tết"
+      
+    },
+    {
+        "id" : 23,
+        "title": "Bánh ít lá gai    ",
+        "image":"./images/banhitlagai.jpg",
+        "newprice" : 50000,
+        "oldprice": 80000,
+        "type" : "món truyền thống ngày tết"
+      
+    }
+
+    
+   
+]
